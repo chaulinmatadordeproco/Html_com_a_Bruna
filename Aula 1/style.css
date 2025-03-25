@@ -1,0 +1,108 @@
+.header1{
+    border-radius: 20px;
+    min-height: 16px;
+    min-width: 40px;
+    background-color: blue;
+    padding-top: 16px; 
+    padding-right: 40px; 
+    padding-bottom: 16px; 
+    padding-left:  40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header2{
+    border-radius: 20px;
+    margin-top: 5px;
+    min-height: 16px;
+    min-width: 40px;
+    background-color: blue;
+    padding-top: 16px; 
+    padding-right: 40px; 
+    padding-bottom: 16px; 
+    padding-left:  40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header3{
+    border-radius: 20px;
+    margin-top: 5px;
+    min-height: 16px;
+    min-width: 40px;
+    background-color: blue;
+    padding-top: 16px; 
+    padding-right: 40px; 
+    padding-bottom: 16px; 
+    padding-left:  40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header4{
+    border-radius: 20px;
+    margin-top: 5px;
+    min-height: 16px;
+    min-width: 40px;
+    background-color: blue;
+    padding-top: 16px; 
+    padding-right: 40px; 
+    padding-bottom: 16px; 
+    padding-left:  40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo1{
+    height: 100px;
+    width: 100px;
+    border-radius: 0px;
+    padding-left: 40px;
+    align-items: center;
+}
+.div1{
+    display: flex;
+    justify-content:space-around ;
+    width: 300px;
+    align-items: center;
+}
+.div2{
+    display: flex;
+    justify-content:space-around ;
+    width: 500px;
+    height: 20PX;
+    align-items: center;
+}
+
+.div3{
+    display: flex;
+    justify-content: space-around ;
+    justify-content: center;
+    background-color: black;
+    align-items: center;
+    
+}
+
+.p1{
+    height: 20PX;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+.p2{
+    height: 20PX;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.a1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: beige;
+    border-radius: 8px;
+    text-decoration: none;
+}
